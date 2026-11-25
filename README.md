@@ -14,17 +14,6 @@ El trabajo aborda el diseño de una red de comunicaciones adaptada a las caracte
 
 El proyecto comprende tanto el planteamiento técnico de la infraestructura como su valoración económica y su simulación mediante Cisco Packet Tracer.
 
-## Objetivos
-
-- Diseñar una infraestructura de red adaptada a las necesidades del centro educativo.
-- Planificar la distribución física y lógica de la red.
-- Facilitar la conectividad entre los diferentes espacios y equipos del centro.
-- Considerar criterios de seguridad y organización del tráfico.
-- Seleccionar el equipamiento necesario para la infraestructura.
-- Facilitar el mantenimiento y la ampliación futura de la red.
-- Elaborar un presupuesto económico de la solución.
-- Validar el diseño mediante un entorno de simulación.
-
 ## Desarrollo del proyecto
 
 El proyecto se organiza en diferentes áreas de trabajo:
